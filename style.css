@@ -272,6 +272,20 @@ ul{
     margin-bottom: 20px;
 }
 
+/* Info */
+
+.note{
+    width: 100%;
+    height: 30px;
+    background-color: #262626;
+    color: #ccc;
+    text-align: center;
+}
+
+.note p{
+    padding: 4px 0px;
+}
+
 /* MEDIA_QUERIES */
 @media(max-width: 700px) {
 
